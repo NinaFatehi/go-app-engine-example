@@ -10,4 +10,4 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/NinaFatehi/go-app-engine-example.git
    cd go-app-engine-example
-   go run main.go 
+   go run main.go (Ensure you have Go installed)
