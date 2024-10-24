@@ -11,3 +11,7 @@ To run this application locally, follow these steps:
    git clone https://github.com/NinaFatehi/go-app-engine-example.git
    cd go-app-engine-example
    go run main.go (Ensure you have Go installed)
+
+Deploy to Google App Engine:
+
+   gcloud app deploy
